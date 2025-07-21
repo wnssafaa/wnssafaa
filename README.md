@@ -14,7 +14,7 @@
 🎓 Diplômée en Systèmes Informatiques & Base de Données  
 💻 Spécialisée en développement Web & Mobile  
 🛠️ Certifiée **Oracle Java SE 17 Developer**  
-🌱 En formation Full Stack Java/Spring Boot avec Angular  
+🌱 Développeuse Full Stack Java/Spring Boot avec Angular  
 📊 Familiarisée avec les méthodologies **Agile / Scrum**
 
 ---

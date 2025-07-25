@@ -4,7 +4,8 @@
   <strong>Développeuse Full Stack</strong> passionnée par les technologies Java & JavaScript<br>
   📍 Casablanca, Maroc <br>
   ✉ wannassafaa8@gmail.com | 📞 +212 6 75 81 06 29<br>
-  🌐 <a href="https://github.com/wnssafaa" target="_blank">github.com/wnssafaa</a>
+  🌐 <a href="https://github.com/wnssafaa" target="_blank">github.com/wnssafaa</a><br>
+  🖥️ <a href="https://mon-portfolio-47j9.vercel.app/" target="_blank">Mon Portfolio</a>
 </p>
 
 ---
@@ -15,7 +16,8 @@
 💻 Spécialisée en développement Web & Mobile  
 🛠️ Certifiée **Oracle Java SE 17 Developer**  
 🌱 Développeuse Full Stack Java/Spring Boot avec Angular  
-📊 Familiarisée avec les méthodologies **Agile / Scrum**
+📊 Familiarisée avec les méthodologies **Agile / Scrum**  
+💡 Curieuse, rigoureuse, avec un fort esprit d'équipe  
 
 ---
 
@@ -108,7 +110,8 @@
 
 📧 wannassafaa8@gmail.com  
 📍 Casablanca, Maroc  
-🔗 [Mon GitHub](https://github.com/wnssafaa)
+🔗 [Mon GitHub](https://github.com/wnssafaa)  
+🖥️ [Mon Portfolio](https://mon-portfolio-47j9.vercel.app/)
 
 ---
 
